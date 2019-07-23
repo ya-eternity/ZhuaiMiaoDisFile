@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   zhuaimiao.plist
+   
+
+   Created by ZoeyWang on 2019/7/23.
+   Copyright (c) 2019 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<array>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://zhuaimiao.kuaiso.com/zhuaimiao.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://gitee.com/kuaiso2202/ZhuaiMiaoDisFile/blob/master/icon_57.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://gitee.com/kuaiso2202/ZhuaiMiaoDisFile/blob/master/icon_512.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>title</key>
+                <string>拽喵</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>bundle-identifier</key>
+                <string>com.kuaisou.zhuaimiao.test</string>
+            </dict>
+        </dict>
+    </array>
+</array>
+</plist>

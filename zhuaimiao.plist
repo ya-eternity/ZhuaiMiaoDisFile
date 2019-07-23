@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ya-eternity/ZhuaiMiaoDisFile/master/icon_512.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/ya-eternity/ZhuaiMiaoDisFile/master/icon_57.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>

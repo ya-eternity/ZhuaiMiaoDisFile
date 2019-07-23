@@ -3,7 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>items</key>
-<array>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -16,34 +15,30 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>display-image</string>
 					<key>url</key>
 					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>full-size-image</string>
 					<key>url</key>
 					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>title</key>
-				<string>拽喵</string>
+				<key>bundle-identifier</key>
+				<string>com.kuaisou.zhuaimiao.test</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>bundle-identifier</key>
-				<string>com.kuaisou.zhuaimiao.test</string>
+				<key>title</key>
+				<string>拽喵</string>
 			</dict>
 		</dict>
 	</array>
-</array>
 </dict>
 </plist>
+
